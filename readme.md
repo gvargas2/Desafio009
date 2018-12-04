@@ -13,3 +13,12 @@ Requerimientos:
 Scketch Desktop:
 ![Alt Text](img_readme/desafio009_1)
 
+Scketc Mobile:
+![Alt Text](img_readme/desafio009_3)
+![Alt Text](img_readme/desafio009_4)
+
+Secciones, Estructura HTML y Clases CSS:
+![Alt Text](img_readme/desafio009_2)
+
+Estructura de Directorios y Dependencias:
+![Alt Text](img_readme/desafio009_5)

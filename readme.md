@@ -11,5 +11,6 @@ Requerimientos:
 - Mostrar el Logo de Empresa
 
 Scketch Desktop:
-![Alt Text](img_readme/desafio009_1)
+![desafio009_1](https://user-images.githubusercontent.com/44576817/49410665-7d7d4a80-f744-11e8-9b61-6a78da4da9ff.JPG)
+
 

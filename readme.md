@@ -10,3 +10,6 @@ Requerimientos:
 - Enfatizar la compra de Productos
 - Mostrar el Logo de Empresa
 
+Scketch Desktop:
+![Alt Text](img_readme/desafio009_1)
+

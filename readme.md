@@ -1,6 +1,6 @@
-#Documentación del Proceso
+Documentación del Proceso:
 
-#Requerimientos
+Requerimientos:
 - Crear Página “Acerca de”
 - Contenido  - Reseña de su Historia
              - Procedencia de Productos
